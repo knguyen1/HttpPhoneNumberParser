@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="HttpPhoneNumberParser" GeneratedClassName="Settings1">
+  <Profiles />
+  <Settings>
+    <Setting Name="website" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://www.klsdiversified.com</Value>
+    </Setting>
+    <Setting Name="company" Type="System.String" Scope="User">
+      <Value Profile="(Default)">KLS Diversified</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

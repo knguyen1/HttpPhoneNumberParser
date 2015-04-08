@@ -1,0 +1,9 @@
+C:\Users\knguyen\Documents\Visual Studio 2013\Projects\HttpPhoneNumberParser\HttpPhoneNumberParser\bin\Release\HttpPhoneNumberParser.exe.config
+C:\Users\knguyen\Documents\Visual Studio 2013\Projects\HttpPhoneNumberParser\HttpPhoneNumberParser\bin\Release\HttpPhoneNumberParser.exe
+C:\Users\knguyen\Documents\Visual Studio 2013\Projects\HttpPhoneNumberParser\HttpPhoneNumberParser\bin\Release\HttpPhoneNumberParser.pdb
+C:\Users\knguyen\Documents\Visual Studio 2013\Projects\HttpPhoneNumberParser\HttpPhoneNumberParser\bin\Release\HtmlAgilityPack.dll
+C:\Users\knguyen\Documents\Visual Studio 2013\Projects\HttpPhoneNumberParser\HttpPhoneNumberParser\bin\Release\HtmlAgilityPack.pdb
+C:\Users\knguyen\Documents\Visual Studio 2013\Projects\HttpPhoneNumberParser\HttpPhoneNumberParser\bin\Release\HtmlAgilityPack.xml
+C:\Users\knguyen\Documents\Visual Studio 2013\Projects\HttpPhoneNumberParser\HttpPhoneNumberParser\obj\Release\HttpPhoneNumberParser.csprojResolveAssemblyReference.cache
+C:\Users\knguyen\Documents\Visual Studio 2013\Projects\HttpPhoneNumberParser\HttpPhoneNumberParser\obj\Release\HttpPhoneNumberParser.exe
+C:\Users\knguyen\Documents\Visual Studio 2013\Projects\HttpPhoneNumberParser\HttpPhoneNumberParser\obj\Release\HttpPhoneNumberParser.pdb
